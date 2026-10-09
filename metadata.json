@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Technologies",
+  "description": "Next-generation software engineering, enterprise cloud infrastructure, and intelligent digital systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
